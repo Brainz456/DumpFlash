@@ -1,3 +1,6 @@
+Forked for usage potential usage in my dissertation
+
+
 # DumpFlash
 DumpFlash is a tool to retrieve and write Flash data to the physical NAND Flash memory or virtual image file. Various operations like ECC check and on-image pattern recognition, extraction and rewriting for u-Boot bootloader and JFFS2 file system are supported.
 
